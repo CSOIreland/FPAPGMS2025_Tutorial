@@ -18,7 +18,7 @@ library(tidyr)
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
 # Download the PX File associated with this tutorial by visiting
-# data.cso.iee, searching for "GMSA04", clicking the result, then clicking "Full download" 
+# data.cso.ie, searching for "GMSA04", clicking the result, then clicking "Full download" 
 # on the left hand side of the page and clicking "px"
 
 # Read in px file
